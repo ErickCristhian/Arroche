@@ -52,7 +52,7 @@ function Home(){
                         type="button" 
                         onClick={handleClick} 
                         className="btn-info text-white"> 
-                            http://localhost:3000/{url_encurtada}
+                            https://arroche.vercel.app/{url_encurtada}
                         </Button>
                     }
                 </div>

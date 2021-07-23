@@ -37,7 +37,7 @@ function Success(){
                                 <td 
                                 className="action col-4"
                                 onClick={e => handleClick(e, url.url_encurtada)}>
-                                    http://localhost:3000/{url.url_encurtada}
+                                    https://arroche.vercel.app/{url.url_encurtada}
                                 </td>
                                 <td className="col-4">{url.count_clicks}</td>
                             </tr>
