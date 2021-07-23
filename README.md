@@ -28,14 +28,7 @@ O backend deve estar rodando em http://localhost:3333.
 ## Instalação do Frontend
 
 Ao clonar a pasta do Frontend rode:
-```
-yarn install
-```
 
-
-Aguarde o processo ser finalizado...
-
-Depois de finalizado o processo de instalação, rode o seguinte comando:
 ```
 yarn start
 ```
